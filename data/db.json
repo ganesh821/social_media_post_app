@@ -1,0 +1,35 @@
+{
+  "posts": [
+   
+    {
+      "id": 1,
+      "title": "we gansh",
+      "datetime": "April 26, 2024 7:14:01 PM",
+      "body": "we ganesh"
+    },
+    {
+      "id": 2,
+      "title": "sue",
+      "datetime": "April 26, 2024 7:26:26 PM",
+      "body": "sss"
+    },
+    {
+      "id": 3,
+      "title": "This is my page",
+      "datetime": "April 26, 2024 7:37:41 PM",
+      "body": "This is my page"
+    },
+    {
+      "id": 4,
+      "title": "n o need",
+      "datetime": "April 26, 2024 7:37:54 PM",
+      "body": "dd"
+    },
+    {
+      "id": 5,
+      "title": "not mine",
+      "datetime": "April 26, 2024 7:38:12 PM",
+      "body": "not mine"
+    }
+  ]
+}
