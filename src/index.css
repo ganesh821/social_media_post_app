@@ -229,6 +229,10 @@ body {
   cursor: pointer;
 }
 
+.editButton {
+  background-color: green;
+}
+
 .deleteButton {
   background-color: red;
 }
